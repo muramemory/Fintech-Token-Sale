@@ -4,6 +4,9 @@
 
 This repository includes 2 contracts for a crowd token sale on the ethereum network.
 
+1. Kasei Coin
+2. Kasei Coin Crodw Sale
+
 Applications used:
 - remix.ethereum.org
 - Ganache
