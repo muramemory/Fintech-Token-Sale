@@ -2,6 +2,13 @@
 
 ## Overview
 
+This repository includes 2 contracts for a crowd token sale on the ethereum network.
+
+Applications used:
+- remix.ethereum.org
+- Ganache
+- Visual Studio Code
+
 ## Results
 
 ###  Kasei Coin Compile
